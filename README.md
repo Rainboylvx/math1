@@ -1,41 +1,52 @@
-# Website
+# 初高中数学电子书
+
+## 首页
+
+### 主要项目
+1. **初中数学**：涵盖初中数学的核心知识点、思维导图和资源。
+2. **高中数学**：提供高中数学的入门指南和深入学习材料。
+3. **Geogebra**：互动式数学工具和可视化资源。
+
+### 为什么创建这个项目？
+创建这个项目的目的是为了整理和分享初高中数学的学习资源，帮助学习者更高效地掌握数学知识。通过结构化的内容和丰富的资源，我希望提供一个便捷的学习平台。
+
+### 目标是什么？
+- 提供清晰、系统的数学学习路径。
+- 整合优质资源，包括思维导图、互动工具和理论讲解。
+- 促进数学学习的兴趣和理解。
+
+### 欢迎哪些人使用？
+- 初中和高中的学生。
+- 数学教师和教育工作者。
+- 对数学感兴趣的爱好者。
+
+## 快速开始
+
+### 安装
+1. 克隆本项目到本地：
+   ```bash
+   git clone https://github.com/rainboy/math1.git
+   ```
+2. 进入项目目录：
+   ```bash
+   cd math1
+   ```
+3. 启动本地服务器（如使用 Docsify）：
+   ```bash
+   docsify serve
+   ```
+
+### 使用指南
+- 浏览 `初中数学` 和 `高中数学` 目录获取学习资源。
+- 使用 `Geogebra` 目录中的互动工具辅助学习。
+
+### 贡献
+欢迎贡献资源或改进内容！请提交 Pull Request 或提出问题。
+
+## 使用的协议
+本项目采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议，允许自由分享和改编，但需署名并采用相同协议共享。
+
+1. 使用 `yarn serve` 启动本地服务器。
+2. 浏览左侧导航栏查看内容。# Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
-
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
