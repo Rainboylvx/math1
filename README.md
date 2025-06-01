@@ -48,5 +48,3 @@
 
 1. 使用 `yarn serve` 启动本地服务器。
 2. 浏览左侧导航栏查看内容。# Website
-
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
