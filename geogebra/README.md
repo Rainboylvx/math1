@@ -7,6 +7,7 @@ how to use geogebra
 - [ggb online](https://kz16.top/ggb/)
 - [ggb 国内镜像](https://ggb123.cn/classic)
 - [geogebra 图形嵌入网页，Hexo文章 - 又见苍岚](https://www.zywvvd.com/notes/tools/geogebra/geogebra-html-embed/geogebra-html-embed/)
+- [tiwe0/chat-with-geogebra](https://github.com/tiwe0/chat-with-geogebra)
 
 
 ## FQA
